@@ -4,3 +4,13 @@
     font-family: 'poppins', sans-serif;
     box-sizing: border-box;
 }
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./img/Background.avif);
+    background-position: center;
+    background-size: cover;
+    padding: 0 8%;
+    
+}
